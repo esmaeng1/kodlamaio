@@ -1,2 +1,0 @@
-# kodlamaio
-kodlama ödevleri
